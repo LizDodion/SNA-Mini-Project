@@ -464,7 +464,7 @@ public class ImportMain {
 				 tmp = Integer.toString(3);
 			//	 System.out.println("new = "+tmp);
 			 }
-			 //Daddy Smells! :)
+			 //Second Draft
 			 else {				 
 			//	 System.out.print("old = "+tmp);
 				 int tmpInt = Integer.parseInt(tmp);
